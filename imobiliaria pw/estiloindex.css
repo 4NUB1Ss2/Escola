@@ -1,0 +1,40 @@
+
+.navbar{
+	width : 100%;
+	background-color : #FF6347;
+	overflow : auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #FFE4B5;
+  font-size: 20px;
+}
+
+.home {
+  background-color: #FF4500;
+}
+
+.corpo {
+	padding: 300px;
+	background-color:#B0E0E6;
+}
+
+.botoes {
+  background-color: #4682B4;
+  font-size: 14pt;
+  color: white;
+  padding: 10px 12px;
+  margin: 8px 0;
+  cursor: pointer;
+  width: 30%;
+  float: center;
+  text-align: center;
+}
+
